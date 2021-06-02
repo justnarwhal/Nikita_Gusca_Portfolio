@@ -1,0 +1,1 @@
+To start my code is very simple, you just have to put the o3_surface_20180701000000.nc one in the same folder as my code and be sure to have the data with the same name: "o3_surface_20180701000000.nc"
